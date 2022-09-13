@@ -12,6 +12,35 @@ header {
   background-position: bottom;
 }
 
-h2 {
+h1 {
   padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.main-box1 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid;
+}
+
+.main-box2 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid;
+}
+
+.main-box3 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid;
+}
+
+.main-box4 {
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid;
 }
